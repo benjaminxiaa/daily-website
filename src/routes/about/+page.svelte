@@ -44,5 +44,8 @@
     I love taking photos of the environment and other interesting subjects.
     I listen to lofi basically every time I edit photos or code. ⬇️
   </p>
+  <p style="font-size: 0.5rem">
+    Credit to the owner of the video. I do not own nor created the video.
+  </p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jfKfPfyJRdk?si=R8Tq31bQl06b1X1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
