@@ -81,5 +81,4 @@
 </main>
 <div class="after-page">
   <Gallery {images} rowHeight={600} />
-	<iframe src="https://www.youtube.com/watch?v=jfKfPfyJRdk&pp=ygUEbG9maQ%3D%3D" frameborder="0"></iframe>
 </div>
